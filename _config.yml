@@ -1,6 +1,2 @@
-# jekyll configuration
-
 gems:
-	- jekyll-redirect-from
-
-# end of configuration
+    - jekyll-redirect-from
